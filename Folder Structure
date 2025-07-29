@@ -1,0 +1,8 @@
+real-time-code-editor/
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── server.js
+├── package.json
+└── README.md
