@@ -1,0 +1,15 @@
+{
+  "name": "real-time-code-editor",
+  "version": "1.0.0",
+  "description": "A real-time collaborative code editor using JavaScript, Node.js, and WebSockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
